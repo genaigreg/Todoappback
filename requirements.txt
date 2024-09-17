@@ -4,3 +4,4 @@ pydantic_settings==2.5.2
 python-dotenv==1.0.1
 SQLAlchemy==2.0.23
 starlette==0.38.5
+gunicorn
