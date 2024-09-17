@@ -1,4 +1,5 @@
-aiobotocore==2.5.0  # Example version
+--upgrade pip
+aioitertools==0.10.0
 aiohttp==3.9.0
 aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
 aiosignal==1.3.1
